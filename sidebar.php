@@ -2,13 +2,13 @@
     <div class="sidebar">
         <div class="widget center">
             <i class="logo"></i>
-            <span class="name">banri</span>
+            <span class="name">ferstar</span>
         </div>
         <div class="social">
             <div class="center">
-                <a href="https://github.com/banrikun" target="_blank" title="GitHub">&#60081;</a>
-                <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=fhhGSEg_CBcOUA8PUB0REw" target="_blank" title="Mail">&#60038;</a>
-                <a href="http://weibo.com/banrikun" target="_blank" title="Weibo">&#58880;</a>
+                <a href="https://github.com/ferstar" target="_blank" title="GitHub">&#60081;</a>
+                <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=iuzv_NX5-uv4yvv7pOnl5w" target="_blank" title="Mail">&#60038;</a>
+                <a href="http://weibo.com/ferstar" target="_blank" title="Weibo">&#58880;</a>
             </div>
         </div>
         <div class="widget">

@@ -321,10 +321,10 @@ a.current {
     margin: .5rem auto;
 
     border-radius: 50%;
-    background-image: url(//cdn.brdev.org/avatar.jpg!1x);
+    background-image: url(./img/header.jpg);
     background-image: -webkit-image-set(
-    url(//cdn.brdev.org/avatar.jpg!1x) 1x,
-    url(//cdn.brdev.org/avatar.jpg!2x) 2x);
+    url(./img/header.jpg) 1x,
+    url(./img/header@2x.jpg) 2x);
 }
 
 .name {
